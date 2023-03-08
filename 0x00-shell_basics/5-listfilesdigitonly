@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -gloRF -a
+ls -l -a -n
